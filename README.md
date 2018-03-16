@@ -1,6 +1,7 @@
 # Terminaid Desktop App
 
-Run your favorite Terminaid recipes directly on your machine!
+![Screenshot](screen.png)
+Run your favourite Terminaid recipes directly on your machine!
 
 1. Full fledged terminal
 2. Terminaid recipe support
