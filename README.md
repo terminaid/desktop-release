@@ -1,8 +1,7 @@
 # Terminaid Desktop App
 
-![Screenshot](https://raw.githubusercontent.com/terminaid/desktop-release/master/screen.png)
-Run your favourite Terminaid recipes directly on your machine!
+Download the Terminaid Desktop App for macOS, in order to use the 'Run in Client' button on your Terminaid recipes.
 
-1. Full fledged terminal
-2. Terminaid recipe support
-3. Built on web technologies
+The app can also be used as a normal terminal app, and includes handy shortcuts for using your terminal.
+
+![Screenshot](https://raw.githubusercontent.com/terminaid/desktop-release/master/screen.png)
